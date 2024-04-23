@@ -1,1 +1,1 @@
-# As a dataset was used Covid worldwide infection base. In this project few calculation are done, moslty focusing on percentage of population that is vaccinated, death tools in countires and continents and  the likelihood of dying if you contract covid in your country. 
+As a dataset, the worldwide Covid infection database was used. In this project, a few calculations are done, mostly focusing on the percentage of the population that is vaccinated, death tolls in countries and continents, and the likelihood of dying if you contract Covid in your country.
